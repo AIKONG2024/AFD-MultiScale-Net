@@ -4,8 +4,8 @@
 - Landsat-8 Bands의 Swir2, Swir1, blue, AFI 4채널 적용  
  ![image](https://github.com/AIKONG2024/AFD-MultiScale-Net/assets/154941894/b5b11c07-b907-4c44-87c5-e740a219a998)
 
-## 논문 
-https://www.mdpi.com/2072-4292/14/4/992
+## 참조 논문 
+https://www.mdpi.com/2072-4292/14/4/992 [Fangjum Li, Xiaoyang Zhang , 2022] 
 
 ## 목적  
 논문을 참조해 Landsat-8 이미지를 이용한 산불 탐지 모델 구현
