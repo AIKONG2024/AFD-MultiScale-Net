@@ -1,7 +1,7 @@
 # AFD-MultiScale-Net
 - AFD(Active-Fire Detection) MultiScale-Net Segmentation Model
  ![image](https://github.com/AIKONG2024/AFD-MultiScale-Net/assets/154941894/bcadcf51-d3b4-45c4-bf50-a7ce8c476ec4)
-- Landsat-8 Bands의 AFI 적용  
+- Landsat-8 Bands의 Swir2, Swir1, blue, AFI 4채널 적용  
  ![image](https://github.com/AIKONG2024/AFD-MultiScale-Net/assets/154941894/b5b11c07-b907-4c44-87c5-e740a219a998)
 
 ## 논문 
