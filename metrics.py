@@ -1,3 +1,5 @@
+import tensorflow as tf
+
 #mIOU metrics
 THESHOLDS = 0.25 # 임계치 기준으로 이진화
 def miou(y_true, y_pred, smooth=1e-6):
